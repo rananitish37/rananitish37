@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rananitish37@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-git-master-nitish-ranas-projects.vercel.app/](https://portfolio-git-master-nitish-ranas-projects.vercel.app/)
+- 📄 Know about my experiences [https://portfolio-git-master-nitish-ranas-projects.vercel.app/](https://portfolio-wheat-six-sfkigitzlv.vercel.app/))
 
 - ⚡ Fun fact **Engineering is easy😁**
 
